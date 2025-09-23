@@ -5,12 +5,20 @@
     <link>http://localhost:4321/research/</link>
       <atom:link href="http://localhost:4321/research/index.xml" rel="self" type="application/rss+xml" />
     <description>Researches</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 09 Sep 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:4321/media/icon_hu9264559883886212993.png</url>
       <title>Researches</title>
       <link>http://localhost:4321/research/</link>
     </image>
+    
+    <item>
+      <title>Tax avoidance and environmental implications: Vehicle Registrations in Mexico</title>
+      <link>http://localhost:4321/research/job_market_paper/</link>
+      <pubDate>Mon, 09 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/research/job_market_paper/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Flexibility and Timing of Incentives: Navigating the Fuel Transition in Refinery Production</title>

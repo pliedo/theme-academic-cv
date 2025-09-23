@@ -38,9 +38,9 @@
     
     <item>
       <title>Tax avoidance and environmental implications: Vehicle Registrations in Mexico</title>
-      <link>http://localhost:4321/publication/job_market_paper/</link>
+      <link>http://localhost:4321/research/job_market_paper/</link>
       <pubDate>Mon, 09 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/publication/job_market_paper/</guid>
+      <guid>http://localhost:4321/research/job_market_paper/</guid>
       <description></description>
     </item>
     
@@ -331,7 +331,7 @@
 
 
 
-&lt;div id=&#34;chart-523748196&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-928175364&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   async function fetchChartJSON() {
     console.debug(&#39;Hugo Blox fetching chart JSON...&#39;)
@@ -349,7 +349,7 @@
 
       fetchChartJSON().then(chart =&gt; {
         console.debug(&#39;Plotting chart...&#39;)
-        window.Plotly.newPlot(&#39;chart-523748196&#39;, chart.data, chart.layout, {responsive: true});
+        window.Plotly.newPlot(&#39;chart-928175364&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -987,7 +987,7 @@ Parallel 4   :         des6, after des4, 1d
       <link>http://localhost:4321/cv/cv/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:4321/cv/cv/</guid>
-      <description>&lt;iframe src=&#34;http://localhost:4321/uploads/resume.pdf&#34; width=&#34;100%&#34; height=&#34;800px&#34; style=&#34;border: none;&#34;&gt;&lt;/iframe&gt;
+      <description>&lt;iframe src=&#34;http://localhost:4321/uploads/liedo_2page_cv.pdf&#34; width=&#34;100%&#34; height=&#34;800px&#34; style=&#34;border: none;&#34;&gt;&lt;/iframe&gt;
 </description>
     </item>
     

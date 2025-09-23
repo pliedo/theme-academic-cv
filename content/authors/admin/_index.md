@@ -20,18 +20,18 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: PhD Candidate
+role:  Assistant Professor 
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: UC Davis
+  - name: Tecnologico de Monterrey
     url: https://are.ucdavis.edu/people/grad-students/phd/pedro-liedo-orozco/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: envelope
-    url: 'mailto:pliedo@ucdavis.edu'
+    url: 'mailto:pliedo@tec.mx'
     label: E-mail Me
   - icon: brands/x
     url: https://twitter.com/PedroLiedo
@@ -166,10 +166,8 @@ profiles:
 
 ## About Me
 
-Welcome! I am a PhD student in Agricultural and Resource Economics at UC Davis.
+**Welcome!** I am an environmental economist working at the intersection of applied microeconomics and public policy. My research focuses on transportation, fuel transitions, and land use change, with a particular interest in the environmental impacts of policies such as the California Low Carbon Fuel Standard.
 
-**I am on the job market this fall (AY 2024-2025).**
+I am currently an **Assistant Professor of Economics at Tecnológico de Monterrey in Mexico City**. I received my PhD in Agricultural and Resource Economics from the University of California, Davis.
 
-I'm mostly interested in Environmental and Public Economics. My job market paper studies the effect of tax avoidance on the composition of the vehicle fleet and its environmental implications in Mexico. I also do research on land use change and fuel transition related to the California Low Carbon Fuel Standard.
-
-I enjoy soccer, cooking, biking, skiing, and playing the drums.
+Outside of research, I enjoy **soccer, cooking, biking, skiing, and playing the drums**.
